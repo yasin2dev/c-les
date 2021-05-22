@@ -25,7 +25,7 @@ int main() {
     //C equal 20.
     c = 20;
     printf("Address of C: %p\n", &c);
-    printf("Address of C: %d\n\n", c);
+    printf("Value of C: %d\n\n", c);
     //Nothing changed, only c variable been 11.
 
     return 0;
